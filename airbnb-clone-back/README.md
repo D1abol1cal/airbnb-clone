@@ -1,11 +1,5 @@
 # Airbnb clone (fullstack project) Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Backend)
 
-Spring boot backend of the airbnb clone
-
-[Video tutorial](https://youtu.be/XriUV06Hkow)
-
-[Angular Frontend](https://github.com/C0de-cake/airbnb-clone-frontend)
-
 ### Key Features:
 - 📅 Booking management for travelers
 - 🏠 Landlord reservation management
