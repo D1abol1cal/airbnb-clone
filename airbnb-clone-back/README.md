@@ -14,7 +14,6 @@
 - IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
 
 ### Clone the repository
-``git clone https://github.com/C0de-cake/airbnb-clone-back``
 
 ### Launch
 #### Maven
